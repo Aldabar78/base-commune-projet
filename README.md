@@ -54,7 +54,7 @@ Il ne s'agit pas d'un projet en soi, mais d'un point de départ : une structure 
 
 Ce projet est né de la conviction que notre travail prend de la valeur lorsqu'il est partagé.
 
-Utilisez-le, améliorez-le, partagez-le et transmettez-le à votre tour.
+Utilisez-le, améliorez-le, amusez vous et transmettez-le à votre tour.
 
 **« Le savoir grandit lorsqu'il est partagé. »**  
 **— Aldabar**
